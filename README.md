@@ -21,7 +21,7 @@ This PowerShell script automates the process of merging a new `kubeconfig` file 
 
 ```powershell
 git clone https://github.com/itaytalmi/windows-kubeconfig-merger.git
-cd kubeconfig-merge-tool
+cd windows-kubeconfig-merger
 ```
 
 ### Run the script
